@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a1573f05.css",
+    "main.js": "/static/js/main.43d0bc38.js",
+    "static/media/Eminem - Without Me (Official Music Video).mp4": "/static/media/Eminem - Without Me (Official Music Video).77bd186250678c89830e.mp4",
+    "static/media/ACRAZE - Do It To It (ft. Cherish) - (Official Lyric Video) (720p).mp4": "/static/media/ACRAZE - Do It To It (ft. Cherish) - (Official Lyric Video) (720p).c63de3b8ff6aa91e7742.mp4",
+    "static/media/bg.jpg": "/static/media/bg.933fc2923bf4d9541e92.jpg",
+    "index.html": "/index.html",
+    "main.a1573f05.css.map": "/static/css/main.a1573f05.css.map",
+    "main.43d0bc38.js.map": "/static/js/main.43d0bc38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1573f05.css",
+    "static/js/main.43d0bc38.js"
+  ]
+}
